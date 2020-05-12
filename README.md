@@ -50,9 +50,9 @@ From the file in `features_info.txt` contained in the original dataset:
 > * fBodyGyroJerkMag
 
 
-> mean(): Mean value
-> std(): Standard deviation
-> meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+> * mean(): Mean value
+> * std(): Standard deviation
+> * meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
 
 In addition I add the `subject` which includes the number of the `subject` and `activity` where I store the activity name
